@@ -9,18 +9,6 @@ Data Visualization - Count plot for categorical columns Violin plot for numerica
 
 ML pipeline Feature selection using correlation analysis Splitting of data Scaling of data Model Fitting and Hyperparameter Tuning → Linear Regression → Polynomial Regression → Ridge Regression → Random Forest Regressor Optimisation → SGDRegressor Time Series Prediction using → Linear regression → ARIMA (Daily basis, Hourly basis) Model Evaluation → RMSE → MAE → R2 SCORE → NMSE
 
-Contributions :
-
-Chinmaya (202218054) Data Visualization, Feature Selection, Model Fitting
-
-Riya (202218049) Data Visualization, Time Series Prediction (ARIMA)
-
-Swayista (202218035) Problem Statement, Dataset Description, Time Series Prediction (Linear Regression)
-
-Asish (202218022) Optimisation, Model Fitting
-
-Kashish (202001425) Data Preprocessing, Model Evaluation
-
 Dataset Description :
 
 The MetroPT-3 Dataset collects data collected from metro trains' Air Production Units (APU), which include pressure, temperature, motor current, and air intake data. An insight into the most prevalent predictive maintenance issues in the industry can be gained by examining this dataset. In this case, a multivariate time series derived from a multitude of analogue and digital sensors installed on the train's compressor provides a comprehensive overview of its operation.
