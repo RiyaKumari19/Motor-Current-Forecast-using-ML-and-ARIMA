@@ -1,4 +1,7 @@
 # Motor-Current-Forecast-using-ML-and-ARIMA
+
+Assigned Dataset : Metro Train Air Compressor Unit Dataset -Link : https://www.kaggle.com/datasets/anshtanwar/metro-train-dataset
+
 PROJECT PIPELINE
 
 Understanding of Data (Problem Statement)
